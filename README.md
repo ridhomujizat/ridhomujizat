@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ridhomujizat@gmail.com)](mailto:ridhomujizat@gmail.com)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-pink?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/ridhomujizat)](https://dribbble.com/ridhomujizat)
 
-## I'am Frontend Developer & UI Designer. 
+## I'am Software Developer & UI Designer. 
 
 - :books: Focus Techs:  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
