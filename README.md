@@ -11,9 +11,6 @@
 
 ## I'am Software Developer & UI Designer. 
 
-- :books: Focus Techs:  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-- 💻 Ubuntu User
 - 🎲 You can see my portofolio [Click Here!](https://ridhomujizat.github.io) 
 - :mailbox_with_mail: sometime i'am doing freelance for design [@drdev,io](https://www.instagram.com/drdev.io/)
 
