@@ -1,17 +1,55 @@
-#### Hi there! I'am Ridho 👋
+<div align="center">
 
-[![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=ridhomujizat&count_private=true)](https://github.com/ridhomujizat)
+# Hey, I'm Ridho 👋
 
-<img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/QVreOR83Fgr67g2WFJ/giphy.gif" />
+**Software Developer** — building products across web, desktop, and mobile.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridhomujizat/)](https://www.linkedin.com/in/ridhomujizat/)
-[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=Google-Chrome&logoColor=white&link=https://ridhomujizat.github.io)](https://ridhomujizat.com)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ridhomujizat@gmail.com)](mailto:ridhomujizat@gmail.com)
-[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-pink?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/ridhomujizat)](https://dribbble.com/ridhomujizat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhomujizat/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ridhomujizat.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ridhomujizat@gmail.com)
 
-## I'am Software Developer & UI Designer. 
+</div>
 
-- 🎲 You can see my portofolio [Click Here!](https://ridhomujizat.github.io) 
-- :mailbox_with_mail: sometime i'am doing freelance for design [@drdev,io](https://www.instagram.com/drdev.io/)
+---
 
-Thank you for visiting my profile :v:
+## About
+
+Full-stack developer with a focus on Go backends, React/Next.js frontends, and Swift iOS apps. I also explore AI/ML, build desktop apps with Wails, Tauri and Electron, and experiment with Rust when I have the time.
+
+- Building backend services in **Go** and **TypeScript/Node.js**
+- Frontend with **React**, **Next.js**, and **Vue**
+- Native **iOS/macOS** apps with **SwiftUI**
+- Tinkering with **Rust** and LLMs
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div >
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhomujizat&show_icons=true&count_private=true&hide_border=true&theme=default)](https://github.com/ridhomujizat)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhomujizat&layout=compact&hide_border=true&hide=scss,css,html,jupyter+notebook&langs_count=8&theme=default)](https://github.com/ridhomujizat)
+
+</div>
