@@ -5,7 +5,7 @@
 **Software Developer** — building products across web, desktop, and mobile.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhomujizat/)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ridhomujizat.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ridhomujizat.my.id)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ridhomujizat@gmail.com)
 
 </div>
