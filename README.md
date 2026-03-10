@@ -46,10 +46,10 @@ Full-stack developer with a focus on Go backends, React/Next.js frontends, and S
 
 ## GitHub Stats
 
-<div >
+<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhomujizat&show_icons=true&count_private=true&hide_border=true&theme=default)](https://github.com/ridhomujizat)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ridhomujizat&hide_border=true)](https://github.com/ridhomujizat)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhomujizat&layout=compact&hide_border=true&hide=scss,css,html,jupyter+notebook&langs_count=8&theme=default)](https://github.com/ridhomujizat)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridhomujizat&layout=compact&hide_border=true&hide=scss,css,html,Jupyter%20Notebook&langs_count=8)](https://github.com/ridhomujizat)
 
 </div>
